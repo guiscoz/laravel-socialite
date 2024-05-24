@@ -9,7 +9,7 @@ Before you begin, make sure you have the following software installed on your ma
 
 - PHP 
 - Composer
-- MySQL ou outro banco de dados compatível
+- MySQL or another compatible database
 
 
 ## Environment variables
